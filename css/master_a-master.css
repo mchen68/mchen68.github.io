@@ -1,0 +1,68 @@
+#u1429
+{
+	background-color: #2F3037;
+}
+
+#u1429_align_to_page
+{
+	position: relative;
+}
+
+#u1439-7
+{
+	border-style: none;
+	background-color: transparent;
+	color: #5D5E74;
+	line-height: 16px;
+	text-align: left;
+	font-size: 13px;
+	letter-spacing: 1px;
+	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
+	position: relative;
+}
+
+#u1441
+{
+	background-color: transparent;
+}
+
+#u1441_img
+{
+	vertical-align: bottom;
+}
+
+#u1432
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #707287;
+	background-color: transparent;
+	border-radius: 100px;
+	position: relative;
+}
+
+#u1431
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #707287;
+	background-color: transparent;
+	border-radius: 100px;
+	position: relative;
+}
+
+#u1430
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #707287;
+	background-color: transparent;
+	border-radius: 100px;
+	position: relative;
+}
+
+#u1432:hover,#u1431:hover,#u1430:hover
+{
+	background-color: #FE5F3F;
+}
+
